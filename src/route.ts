@@ -8,7 +8,7 @@
 import express from 'express';
 const router = express.Router();
 
-import loginController from './controllers/login/login_controller';
+import loginController from './modules/login/login_controller';
 
 import multer from 'multer';
 

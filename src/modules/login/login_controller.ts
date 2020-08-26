@@ -3,8 +3,7 @@
  * Date: 24-aug-2020
 */
 
-import common from '../../models/crud_function';
-import tables from '../../common/table';
+import common from "../../models/crud_function";
 import responseCode from "../../common/response_code";
 
 export = {
